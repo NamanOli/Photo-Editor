@@ -1,2 +1,2 @@
 # Photo-Editor
-Does basic task like Flip, Rotate, Resize and Grayscale.
+Does basic tasks like Flip, Rotate, Resize and Grayscale.
